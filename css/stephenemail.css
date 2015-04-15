@@ -97,7 +97,7 @@ footer{
         width: 100%;
 }
 .textblock{
-    padding: 2% 1% 2% 3%;
+    padding: 3% 1% 2% 3%;
     position: relative;
     width: 96%;
     max-width: 770px;
@@ -133,7 +133,7 @@ footer{
     letter-spacing: -1px;
 }
 .titleblock{
-    padding: 4% 10%;
+    padding: 4% 10% 3% 10%;
     position: relative;
     width: 80%;
     text-align: center;
