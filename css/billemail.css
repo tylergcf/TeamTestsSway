@@ -126,7 +126,7 @@ footer{
   text-transform: uppercase;
   font-family: 'Fugaz One', sans-serif;
     font-style: italic;
-    background: -webkit-gradient(linear,left top,left bottom,from(#FF0098),to(#000000));
+    background: -webkit-gradient(linear,left top,left bottom,from(#FF0098),to(#940DFF));
       -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
