@@ -124,9 +124,9 @@ footer{
     font-size: 250%;
     line-height: 150%;
   text-transform: uppercase;
-  font-family: 'Fugaz One', sans-serif;
+  font-family: 'Raleway', sans-serif;
     font-style: italic;
-    background: -webkit-gradient(linear,left top,left bottom,from(#FF0098),to(#940DFF));
+    background: -webkit-gradient(linear,left top,left bottom,from(#gray),to(#black));
       -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
