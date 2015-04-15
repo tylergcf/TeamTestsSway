@@ -101,7 +101,7 @@ footer{
     padding: 4% 0;
     position: relative;
     width: 95%;
-    max-width: 780px; 
+    max-width: 770px; 
     align-content: center;
     display: block;
     margin-left: auto;
@@ -109,7 +109,7 @@ footer{
     left: 0;
     right: 0;
     color: #3d3d3d;
-    font-size: 129%;
+    font-size: 125%;
     line-height: 155%;
     font-family: 'Cabin';
     letter-spacing: 0px;
