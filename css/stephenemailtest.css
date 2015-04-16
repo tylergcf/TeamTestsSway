@@ -127,13 +127,13 @@ footer{
     margin-right: auto;
     left: 0;
     right: 0;
-    color: black;
+    color: #404050;
     font-size: 220%;
     line-height: 140%;
     text-transform: uppercase;
     font-family: 'Raleway', sans-serif;
     font-style: italic;
-    background: -webkit-gradient(linear,left top,right bottom,from(gray),to(black));
+    background: -webkit-gradient(linear,left top,left bottom,from(gray),to(#404050;));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
