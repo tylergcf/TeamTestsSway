@@ -186,8 +186,10 @@ footer{
         letter-spacing: -1px;
     }
     .quoteblock{
-        font-size: 150%;
-        line-height: 150%;
+        padding: 6% 0% 4% 1.5%;
+        width: 98.5%;
+        font-size: 152%;
+        line-height: 160%;
     }
     .titleblock{
         padding: 10% 5% 7% 5%;
