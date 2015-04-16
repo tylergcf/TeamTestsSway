@@ -119,6 +119,7 @@ footer{
     padding: 1% 0 3% 0;
     position: relative;
     width: 80%;
+    max-width: 770px;
     text-align: center;
     align-content: center;
     display: block;
