@@ -157,7 +157,7 @@ footer{
 
 
 .titleblock{
-    padding: 4% 10%;
+    padding: 5% 0%;
     position: relative;
     width: 80%;
     text-align: center;
@@ -168,7 +168,7 @@ footer{
     left: 0;
     right: 0;
     color: white;
-    font-size: 250%;
+    font-size: 350%;
     line-height: 150%;
     background: #9ab5c6;
     font-family: 'Raleway', sans-serif;
