@@ -129,7 +129,33 @@ footer{
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       
+      
 }
+
+.stepblock{
+    padding: -1% 0;
+    position: relative;
+    width: 80%;
+    text-align: center;
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    color: black;
+    font-size: 250%;
+    line-height: 150%;
+  text-transform: lowercase;
+  font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    background:-webkit-gradient(linear,left top,left bottom,from(gray),to(black));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      
+}
+
+
 .titleblock{
     padding: 4% 10%;
     position: relative;
