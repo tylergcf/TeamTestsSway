@@ -173,6 +173,8 @@ footer{
     font-size: 350%;
     line-height: 150%;
     background: #9ab5c6;
+    text-transform: uppercase;
+    vertical-align: text-bottom;
     font-family: 'Raleway', sans-serif;
 }
 
