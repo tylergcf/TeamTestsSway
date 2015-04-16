@@ -147,6 +147,7 @@ footer{
     font-size: 250%;
     line-height: 100%;
   text-transform: lowercase;
+
   font-family: 'Raleway', sans-serif;
     font-style: italic;
     background:-webkit-gradient(linear,left top,left bottom,from(gray),to(black));
@@ -155,6 +156,31 @@ footer{
 
 }
 
+.title{
+  
+  padding: 4% 10%;
+    position: relative;
+    width: 80%;
+    text-align: center;
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    left: 0;
+    right: 0;
+    color: white;
+    font-size: 400%;
+    line-height: 150%;
+    background: #9ab5c6;
+    
+    vertical-align: text-bottom;
+    font-family: 'Raleway', sans-serif;
+  
+  
+  
+}
 
 .titleblock{
     padding: 4% 10%;
@@ -176,6 +202,11 @@ footer{
     text-transform: uppercase;
     vertical-align: text-bottom;
     font-family: 'Raleway', sans-serif;
+    font-style: italic;
+}
+
+a {
+  red: red;
 }
 
 .imagefade{
