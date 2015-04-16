@@ -134,8 +134,8 @@ footer{
     font-family: 'Raleway', sans-serif;
     font-style: italic;
     background: -webkit-gradient(linear,left top,left bottom,from(gray),to(black));
-      -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 .titleblock{
     padding: 4% 10% 3% 10%;
