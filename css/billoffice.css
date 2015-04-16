@@ -151,14 +151,14 @@ footer{
 }
 
 #procedure .textblock{
-  margin-top: -50%
-  margin-bottom: -50%;
+  margin-top: -50px;
+  margin-bottom: -50px;
 
 }
 
 #procedure .imageblock{
-  margin-top: -50%
-  margin-bottom: -50%;
+  margin-top: -50px;
+  margin-bottom: -50px;
 
 }
 
