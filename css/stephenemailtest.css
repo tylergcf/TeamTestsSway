@@ -181,6 +181,7 @@ footer{
     .titleimagetext{
         padding: 0% 4% 0% 4%;
         width: 92%;
+        bottom:1em;
         font-size: 260%;
         line-height: 110%;
         letter-spacing: -1px;
