@@ -179,26 +179,28 @@ footer{
 }
 @media (max-width: 600px), (max-height: 450px) {
     .titleimagetext{
-        font-size: 275%;
+        padding: 0% 4% 0% 4%;
+        width: 92%;
+        font-size: 240%;
         line-height: 110%;
-
+        letter-spacing: -1px;
     }
     .quoteblock{
-        font-size: 160%;
-        line-height: 120%;
-        padding: 3% 0 5.5% 0;
-        width: 90%;
-    }
-    .titleblock{
         font-size: 150%;
         line-height: 150%;
-
+    }
+    .titleblock{
+        padding: 10% 5% 7% 5%;
+        width: 90%;
+        font-size: 170%;
+        line-height: 110%;
+        letter-spacing: 0px;
     }
     .textblock{
-        font-size: 105%;
-        line-height: 152%;
-        width: 100%;
-      
+        padding: 6% 0% 4% 1.5%;
+        width: 98.5%;
+        font-size: 102%;
+        line-height: 160%;
     }
     .video-container iframe,
 .video-container object,
