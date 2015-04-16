@@ -119,6 +119,7 @@ footer{
     padding: 1% 0 3% 0;
     position: relative;
     width: 80%;
+    max-width: 770px;
     text-align: center;
     align-content: center;
     display: block;
@@ -126,11 +127,11 @@ footer{
     margin-right: auto;
     left: 0;
     right: 0;
-//    color: #383851;
+    color: 'black';
     font-size: 200%;
     line-height: 140%;
     text-transform: uppercase;
-     font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-style: italic;
     background: -webkit-gradient(linear,left top,left bottom,from(gray),to(black));
       -webkit-background-clip: text;
