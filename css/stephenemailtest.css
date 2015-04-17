@@ -146,7 +146,7 @@ footer{
     margin-right: auto;
     left: 0;
     right: 0;
-    color: #fc3c42;
+    color: #3c3c42;
     font-size: 125%;
     line-height: 175%;
     font-family: 'Droid Serif';
@@ -176,7 +176,7 @@ footer{
  //   -webkit-text-fill-color: transparent;
 }
 
-.quoteblock h4{
+.quoteblock p{
 
     font-size: 250%;
     line-height: 135%;
