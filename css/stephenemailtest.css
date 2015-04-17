@@ -207,7 +207,7 @@ footer{
     width: 80%;
     height: 80%;
 }
-@media (max-width: 640px), (max-height: 450px) {
+@media (max-width: 740px), (max-height: 450px) {
     .titleimagetext{
         padding: 0% 4% 0% 4%;
         width: 92%;
