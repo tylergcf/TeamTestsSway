@@ -248,12 +248,6 @@ a {
         line-height: 150%;
     }
   
-.border {
-  border-color: orange;
-  border-style: double;
-  border-width: 25px 30px 10px 20px;
-
-}
   
     .video-container iframe,
 .video-container object,
