@@ -72,7 +72,7 @@ footer{
   font-family: 'Cabin', sans-serif;
 }
 .imageblock{
-    padding: 4% 0;
+    padding: 2% 0;
     position: relative;
     width: 100%;
     height:auto;
@@ -90,7 +90,7 @@ footer{
         width: 100%;
 }
 .textblock{
-    padding: 4% 0;
+    padding: 1% 0;
   
     position: relative;
     width: 90%;
@@ -110,7 +110,7 @@ footer{
     
 }
 .quoteblock{
-    padding: -4% 0;
+    padding: -2% 0;
     position: relative;
     width: 80%;
     text-align: center;
@@ -123,12 +123,9 @@ footer{
     color: black;
     font-size: 250%;
     line-height: 150%;
-  text-transform: uppercase;
+  //text-transform: uppercase;
   font-family: 'Raleway', sans-serif;
     font-style: italic;
-    background: -webkit-gradient(linear,left top,left bottom,from(gray),to(black));
-      -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
 }
 .titleblock{
     padding: 4% 10%;
