@@ -119,10 +119,10 @@ footer{
     margin-right: auto;
     left: 0;
     right: 0;
-    color: black;
+    color: #3a3a40;
     font-size: 250%;
     line-height: 150%;
-  text-transform: uppercase;
+  //text-transform: uppercase;
   font-family: 'Raleway', sans-serif;
     font-style: italic;
     background:-webkit-gradient(linear,left top,left bottom,from(gray),to(black));
@@ -143,17 +143,13 @@ footer{
     margin-right: auto;
     left: 0;
     right: 0;
-    color: black;
+    color: #3a3a40;
     font-size: 250%;
     line-height: 100%;
-  text-transform: lowercase;
-
+  //text-transform: lowercase;
   font-family: 'Raleway', sans-serif;
     font-style: italic;
-    background:-webkit-gradient(linear,left top,left bottom,from(gray),to(black));
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-
+ 
 }
 
 .title{
@@ -199,10 +195,10 @@ footer{
     font-size: 350%;
     line-height: 150%;
     background: #9ab5c6;
-    text-transform: uppercase;
+    //text-transform: uppercase;
     vertical-align: text-bottom;
     font-family: 'Raleway', sans-serif;
- 
+    font-style: italic;
 }
 
 a {
@@ -251,6 +247,14 @@ a {
         font-size: 100%;
         line-height: 150%;
     }
+  
+.border {
+  border-color: orange;
+  border-style: double;
+  border-width: 25px 30px 10px 20px;
+
+}
+  
     .video-container iframe,
 .video-container object,
 .video-container embed {
