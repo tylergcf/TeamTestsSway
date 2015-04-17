@@ -231,13 +231,17 @@ footer{
         letter-spacing: 0px;
     }
     .textblock p{ 
+        
+        font-size: 102%;
+      
+    }
+    .textblock { 
         padding: 6% 0% 1% 1.5%;
         width: 98.5%;
         color: #ffff00;
         font-size: 102%;
         line-height: 160%;
     }
-    
     
     .imageblockscreenshottest{
     padding: 2% 2% 2% 2%;
