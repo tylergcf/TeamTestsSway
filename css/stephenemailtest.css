@@ -79,6 +79,14 @@ footer{
     line-height: 125%;
     text-shadow: 0px 0px 20px rgba(0, 0, 0, .1)
 }
+
+.titleimagetext p{
+    
+    font-size: 430%;
+    line-height: 125%;
+    
+}
+
 .imageblock{
     padding: 4% 0;
     position: relative;
@@ -167,6 +175,14 @@ footer{
  //   -webkit-background-clip: text;
  //   -webkit-text-fill-color: transparent;
 }
+
+.quoteblock p{
+
+    font-size: 250%;
+    line-height: 135%;
+
+}
+
 .titleblock{
     padding: 4% 10% 3% 10%;
     position: relative;
@@ -219,10 +235,17 @@ footer{
     .quoteblock{
         padding: 2% 3.5% 4% 3%;
         width: 93.5%;
-        color: #440000;
-        font-size: 262%;
+        color: #444400;
+        font-size: 162%;
         line-height: 145%;
     }
+    
+    .quoteblock p{
+        
+        font-size: 162%;
+        line-height: 145%;
+    }
+    
     .titleblock{
         padding: 10% 5% 7% 5%;
         width: 90%;
@@ -230,17 +253,19 @@ footer{
         line-height: 110%;
         letter-spacing: 0px;
     }
-    .textblock p{ 
-        
-        font-size: 102%;
-      
-    }
+   
     .textblock { 
         padding: 6% 0% 1% 1.5%;
         width: 98.5%;
-        color: #440000;
+        color: #444400;
         font-size: 102%;
         line-height: 160%;
+    }
+    
+     .textblock p{ 
+        
+        font-size: 102%;
+      
     }
     
     .imageblockscreenshottest{
