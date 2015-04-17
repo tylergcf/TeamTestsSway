@@ -219,7 +219,7 @@ footer{
     .quoteblock{
         padding: 2% 3.5% 4% 3%;
         width: 93.5%;
-        font-color: #ff0000;
+        color: #ff0000;
         font-size: 162%;
         line-height: 145%;
     }
@@ -233,7 +233,7 @@ footer{
     .textblock{
         padding: 6% 0% 1% 1.5%;
         width: 98.5%;
-        font-color: #ff0000;
+        color: #ff0000;
         font-size: 102%;
         line-height: 160%;
     }
