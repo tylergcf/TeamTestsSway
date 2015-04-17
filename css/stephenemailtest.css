@@ -16,6 +16,11 @@ html{
 
 }
 
+p {
+    padding: 0;
+    margin: 0;
+}
+
 
 .sway-container {
     position: relative;
