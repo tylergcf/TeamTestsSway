@@ -84,6 +84,8 @@ footer{
     margin-right: auto;
     left: 0;
     right: 0;
+    border: 1;
+    border-color: gray;
 }
 .imageblockimg{
       display: block;
